@@ -1,6 +1,6 @@
 # lein-project-reader
 [![master](https://github.com/aneilbaboo/lein-project-reader/actions/workflows/tests.yml/badge.svg?branch=master&label=master&text=master%20tests&title=master%20tests)](https://github.com/aneilbaboo/lein-project-reader/actions/workflows/tests.yml)
-
+``
 Read the Leiningen project file.
 
 ## Usage
