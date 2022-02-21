@@ -2,8 +2,9 @@
 [![master](https://github.com/aneilbaboo/lein-project-reader/actions/workflows/tests.yml/badge.svg?branch=master&label=master&text=master%20tests&title=master%20tests)](https://github.com/aneilbaboo/lein-project-reader/actions/workflows/tests.yml)
 
 [![Clojars Project](https://img.shields.io/clojars/v/net.clojars.aneilm/lein-project-reader.svg)](https://clojars.org/net.clojars.aneilm/lein-project-reader)
-````
+
 Read the Leiningen project file.
+
 ## Add this to your project file dependencies
 ```clojure
 :dependencies [[net.clojars.aneilm/lein-project-reader "0.0.1"]]
