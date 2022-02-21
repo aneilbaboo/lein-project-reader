@@ -1,4 +1,4 @@
-(defproject net.clojars.aneilm/lein-project-reader "0.0.1"
+(defproject net.clojars.aneilm/lein-project-reader "0.0.2"
   :description "Provides access to the Leiningen project definition"
   :url "https://github.com/aneilbaboo/lein-project-reader"
   :license {:name "MIT"
