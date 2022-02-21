@@ -5,5 +5,5 @@
 (deftest reader-test
   (testing "It should read the current project"
     (let [proj (read-project)]
-      (is (= 'lein-project-reader (:name proj)))
+      (is (= 'net.clojars.aneilm/lein-project-reader (:name proj)))
       (is (= (System/getProperty "lein-project-reader.version") (:version proj))))))
